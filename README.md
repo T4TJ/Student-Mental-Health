@@ -6,7 +6,7 @@ The following steps were undertaken in this project:
 
 1. Essential Python libraries such as pandas, matplotlib, and numpy were imported.
 
-2. The CSV file was imported to Jupyter Kan using the read_csv function.
+2. The CSV file was imported to Jupyter Lab using the read_csv function.
 
 3. To ensure that the correct data was imported, the df.head() function was used to check for data.
 
